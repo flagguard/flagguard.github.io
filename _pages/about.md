@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "John Glass"
-excerpt: ""
+title: "About me"
+excerpt: "John Glass"
 author_profile: true
 redirect_from: 
   - /about/
